@@ -15,7 +15,7 @@ const int httpsPort = 443;
 
 WiFiClientSecure client; //--> Create a WiFiClientSecure object.
 
-String GAS_ID = "AKfycbwC7GVD4sEUrtsMCIAdQAmXJVTt-ZmRNsfCqOcefjr_U8TukC2Z"; //--> spreadsheet script ID
+String GAS_ID = "AKfycbwC7GVD4sEUrtsMAXAdQAmXJVTt-ZmRNsfCqOcefjr_U8TukASD"; //--> spreadsheet script ID yang dicopykan
 
 //============================================================================== void setup
 void setup() {
